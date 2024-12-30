@@ -2,6 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Eeymoo&#39; BLOG</title>
   
+  <follow_challenge>
+    <feedId>96436396484510720</feedId>
+    <userId>62015741865848832</userId>
+  </follow_challenge>
   
   <link href="https://blog.eeymoo.tech/atom.xml" rel="self"/>
   
